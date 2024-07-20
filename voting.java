@@ -152,10 +152,7 @@ public class voting extends JFrame implements ActionListener {
             r3.setSelected(false);
 
         }
-        else {
-            JOptionPane.showMessageDialog( rootPane,"please select party");
-
-        }
+    
 
     }
 
